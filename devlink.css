@@ -1,0 +1,145 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fafafa;
+  flex-direction: column;
+  gap: 15px;
+  min-height: 100vh;
+}
+.header {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 92%;
+  height: 78px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  gap: 8px;
+}
+.heade-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.header_bord {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 46px;
+  width: 122px;
+  background-color: #efebff;
+  border-radius: 8px;
+}
+.icons_header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 8px;
+}
+a {
+  text-decoration: none;
+}
+.profile_emo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.preview_icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #633cff;
+  height: 46px;
+  width: 114px;
+  border-radius: 8px;
+}
+.phone_header {
+  display: flex;
+  gap: 15px;
+}
+.phone_box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 834px;
+  width: 560px;
+  background-color: #ffffff;
+  border-radius: 12px;
+}
+.customize_rebut {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  background-color: #ffffff;
+  width: 808px;
+  height: 834px;
+  border-radius: 8px;
+  flex-direction: column;
+  gap: 35px;
+}
+.header_text {
+  display: flex;
+  justify-content: start;
+  align-items: start;
+  flex-direction: column;
+}
+.border_box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 728px;
+  height: 46px;
+  background-color: #fafafa;
+  border-radius: 8px;
+  border: 2px solid#633CFF;
+}
+.inputs_box {
+  display: flex;
+  background-color: #fafafa;
+  width: 728px;
+  height: 228px;
+  flex-direction: column;
+}
+.under_input {
+  display: flex;
+  height: 24px;
+  width: 688px;
+  justify-content: space-between;
+  margin: 15px;
+}
+.form_box {
+  display: flex;
+  justify-content: start;
+  align-items: start;
+  flex-direction: column;
+  margin: 10px;
+  gap: 10px;
+}
+.input_text {
+  display: flex;
+  height: 48px;
+  width: 688px;
+  justify-content: center;
+  align-items: center;
+}
+input {
+  display: flex;
+  border-radius: 8px;
+  border: 2px solid#D9D9D9;
+}
+.save_box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 46px;
+  width: 150px;
+  border-radius: 8px;
+  border: none;
+  font-size: 16px;
+  color: white;
+  background-color: #633cff;
+  margin: 10px;
+}
